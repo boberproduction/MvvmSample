@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MvvmSample</string>
+    <string name="submitButton">Тыц</string>
+</resources>
